@@ -1,1 +1,4 @@
 # NCWiTAiC_CPP_Portfolio
+
+1. guess_my_num: This folder contains the code for a program that runs a simple "guess my number" game. Essentially, the player gives the computer a lowest and highest number; the computer randomely chooses a number between the two for the user to guess. The user has infinite attempts to try to guess the number, and the computer will print whether a guess was too high, too low, or accurate. The user will play two rounds, and the computer will print the number of attempts the user took at the end of each round.
+2. text_generator: This program attempts to mimick the writing style of _Alice's Adventures in Wonderland_ (`alice.txt`) by storing pairs of words together. It  builds a dictionary where each word maps to possible two-word continuations. Starting with the phrase "Alice was," it randomly selects the next phrase based on the last word and continues generating text until it forms 20 sentences.
